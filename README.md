@@ -5,4 +5,4 @@
 <p>+ amelioration code</p>
 
 <p>version 1</p>
-<p>Developpé par Louis</p>
+<p>Developpé par Wulis</p>
