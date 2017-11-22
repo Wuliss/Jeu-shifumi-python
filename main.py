@@ -55,3 +55,11 @@ while (nbr_round < user_nbr_round):
 
 	else:
 		print('Je ne comprend pas...')
+
+#determine qui a gagné
+if(user_score > cp_score):
+	print('------Partie finie sur une victoire ! :)------')
+elif(cp_score > user_score):
+	print('------Partie finie sur une défaite :(------')
+else:
+	print('------Partie finie sur une égalitée :/------')
